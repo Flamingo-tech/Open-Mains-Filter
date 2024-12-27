@@ -2,7 +2,7 @@
 
 # Open Mains Filter PCBA
 
-![Preview](https://github.com/Flamingo-tech/INA-700_STAMP/blob/main/Open-Mains-Filter/Images/Open_Mains_Filter_V1.1.0_IMG_1.png)
+![Preview](https://github.com/Flamingo-tech/Open-Mains-Filter/blob/main/Images/Open_Mains_Filter_V1.1.0_IMG_1.png)
 
 A few years ago, I found myself in a friendly disagreement with Wurth Elektronik. I’ve always been a big fan of their whitepapers and products, and their EMC department has some incredibly knowledgeable people. Naturally, when I needed to design a mains EMC filter, I turned to WE for guidance.
 
@@ -14,7 +14,7 @@ I decided to create my own Mains Filter PCBA. This design is freely available, i
 
 ### Let's take a look at the components you can sample for free:
 
-![Preview](https://github.com/Flamingo-tech/INA-700_STAMP/blob/main/Open-Mains-Filter/Images/Open_Mains_Filter_V1.1.0_Overview.png)
+![Preview](https://github.com/Flamingo-tech/Open-Mains-Filter/blob/main/Images/Open_Mains_Filter_V1.1.0_Overview.png)
 
 #### Connectors:  
 **J1 & J2:** [691411510003](https://www.we-online.com/en/components/products/TBL_5_08_4115_SCREWLESS_HORIZONTAL_ENTRY_6914115100XX?sq=691411510003#691411510003)  
