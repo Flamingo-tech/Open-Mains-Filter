@@ -36,6 +36,12 @@ Optional **Fuse Cover:** [696121101001](https://www.we-online.com/en/components/
 
 ---
 
+#### Inductor:  
+**RV:** [WE-TI-HV Series](https://www.we-online.com/en/components/products/WE-TI-HV#/articles/WE_TI_HV_1014)  
+- Additional, can be bridged with copper wire, or 0Ω.
+
+---
+
 #### Capacitors:  
 **Cx:** [WCAP-FTX2 Series](https://www.we-online.com/en/components/products/WCAP-FTX2)  
 - Compatible with capacitors in the 7.5mm to 15mm pitch range.  
