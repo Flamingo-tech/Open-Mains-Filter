@@ -65,6 +65,11 @@ Optional **Fuse Cover:** [696121101001](https://www.we-online.com/en/components/
 - Compatible with sizes S, M, and L in this range.
 
 ---
+
+Have fun and please don't shock your self ;)
+
+
+---
 <a href="https://www.tindie.com/stores/theflamingo/?ref=offsite_badges&utm_source=sellers_TheFlamingo&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 ---
 
